@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "test1",
+    "Position": "1",
+    "Status": "NA ROBOCIE"
+  },
+  {
+    "Name": "test2",
+    "Position": "2",
+    "Status": "BAZA"
+  },
+  {
+    "Name": "test3",
+    "Position": "3",
+    "Status": "URLOP"
+  },
+  {
+    "Name": "test4",
+    "Position": "4",
+    "Status": "BAZA"
+  }
+]

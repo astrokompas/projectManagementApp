@@ -1,0 +1,15 @@
+.vs/
+Resources/
+*.config
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+*.xlsx
+export_*.xlsx
+emailSettings.json
+mail.config
+temp/
+*.tmp
+MaterialSkin.config
+MaterialSkin/
+EPPlus.cache
